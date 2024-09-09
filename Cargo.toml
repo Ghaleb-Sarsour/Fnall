@@ -1,0 +1,9 @@
+[package]
+name = "fnall"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dirs = "5.0.1"
+rust-analyzer = "0.0.1"
+walkdir = "2.5.0"
