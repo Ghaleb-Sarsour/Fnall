@@ -1,4 +1,4 @@
-1# Fnall
+# Fnall
 A command line program written in Rust that finds all files of a given name. 
 
 This is my first Rust project created to learn some of the basics of rust programming. 
